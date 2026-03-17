@@ -19,8 +19,8 @@ README explaining how it works and why it's written the way it is.
 | Prompt | What It Does | Best For |
 |--------|-------------|----------|
 | [🏫 Unit Plan Generator](./unit-plan-generator/) | Builds complete integrated units from your standards | Grades 1-5, any subject |
-| [🏛️ Historical Figure Interview](./historical-figure-interview/) | Creates an AI character students can interview | Social studies, literacy |
-| [✅ Rubric Bias Checker](./rubric-bias-checker/) | Reviews rubrics for cultural and linguistic bias | Any assessment |
+<!-- | [🏛️ Historical Figure Interview](./historical-figure-interview/) | Creates an AI character students can interview | Social studies, literacy | -->
+<!-- | [✅ Rubric Bias Checker](./rubric-bias-checker/) | Reviews rubrics for cultural and linguistic bias | Any assessment | -->
 
 ---
 
