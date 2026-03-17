@@ -3,8 +3,6 @@
 A comprehensive XML-style prompt for generating complete, 
 standards-aligned integrated unit plans for primary classrooms.
 
-Built and tested at Wells International School, Bangkok, Thailand.
-
 ---
 
 ## 📋 What This Prompt Does
