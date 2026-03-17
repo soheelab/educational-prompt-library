@@ -3,7 +3,7 @@
 Classroom-tested AI prompts for educators, with annotations explaining the thinking behind each one.
 
 > For the thinking behind these prompts, visit 
-> [Soheelab on Substack](???)
+> [Soheelab on Substack](https://soheelab.substack.com/)
 
 ---
 
@@ -40,12 +40,12 @@ README explaining how it works and why it's written the way it is.
 CC BY-NC 4.0 — free to use and adapt for non-commercial purposes 
 with attribution. [Full license here](./LICENSE.md)
 
-Built by [Russell Coffin Jr.](linkedin.com/in/russcoffin) | 
+Built by [Russell Coffin Jr.](https://www.linkedin.com/in/russcoffin/) | 
 
 ---
 
 ## 🌱 This Is A Living Document
 
 New prompts added as I build and test them in my classroom. 
-Follow [Soheelab on Substack](your link) for updates and 
+Follow [Soheelab on Substack](https://soheelab.substack.com/) for updates and 
 annotations when new prompts drop.
